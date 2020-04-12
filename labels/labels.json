@@ -1,0 +1,66 @@
+[
+    {
+        "color": "d73a4a",
+        "default": true,
+        "id": 618287,
+        "name": "bug",
+        "node_id": "MDU6TGFiZWw2MTgyODc=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/bug"
+    },
+    {
+        "color": "cfd3d7",
+        "default": true,
+        "id": 618288,
+        "name": "duplicate",
+        "node_id": "MDU6TGFiZWw2MTgyODg=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/duplicate"
+    },
+    {
+        "color": "a2eeef",
+        "default": true,
+        "id": 618289,
+        "name": "enhancement",
+        "node_id": "MDU6TGFiZWw2MTgyODk=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/enhancement"
+    },
+    {
+        "color": "7057ff",
+        "default": true,
+        "id": 618291,
+        "name": "good first issue",
+        "node_id": "MDU6TGFiZWw2MTgyOTE=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/good%20first%20issue"
+    },
+    {
+        "color": "008672",
+        "default": true,
+        "id": 618290,
+        "name": "help wanted",
+        "node_id": "MDU6TGFiZWw2MTgyOTA=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/help%20wanted"
+    },
+    {
+        "color": "e4e669",
+        "default": true,
+        "id": 618292,
+        "name": "invalid",
+        "node_id": "MDU6TGFiZWw2MTgyOTI=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/invalid"
+    },
+    {
+        "color": "d876e3",
+        "default": true,
+        "id": 618293,
+        "name": "question",
+        "node_id": "MDU6TGFiZWw2MTgyOTM=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/question"
+    },
+    {
+        "color": "ffffff",
+        "default": true,
+        "id": 618294,
+        "name": "wontfix",
+        "node_id": "MDU6TGFiZWw2MTgyOTQ=",
+        "url": "https://github.ncsu.edu/api/v3/repos/ukoparg/rnd-switch/labels/wontfix"
+    }
+]
